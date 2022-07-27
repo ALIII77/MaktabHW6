@@ -13,6 +13,7 @@ public class Article {
     public boolean isPublished;
     private int user_id;
     public int test;
+    public int test1;
 
 
     //create default contructor :
